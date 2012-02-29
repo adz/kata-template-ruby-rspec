@@ -9,9 +9,10 @@ group :development do
   # gem 'rb-fsevent'
 
   # OS X: Uncomment one of the following for visual notifications
-  # gem 'ruby_gntp'
-  # gem 'growl'
-  # gem 'growlnotify'
+  # gem 'ruby_gntp' # Requires Growl >= 1.3
+  # gem 'growl_notify' # Requires Growl >= 1.3
+  # gem 'growl' 
+  
 
   # Linux: Uncomment for inotify support
   # gem 'rb-inotify'

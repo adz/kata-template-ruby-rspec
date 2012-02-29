@@ -8,9 +8,8 @@ Clone the repository.
 
     $ git clone git://github.com/jarhart/kata-template-ruby-rspec.git my_awesome_kata
 
-Create a "kata" gemset and `cd` into your kata directory.
+`cd` into your kata directory.
 
-    $ rvm gemset create kata
     $ cd my_awesome_kata
 
 Install bundler if necessary
